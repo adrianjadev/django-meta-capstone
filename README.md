@@ -1,4 +1,6 @@
 **Test with the following URL/s:**
 
 - api/restaurant
-- api/menu
+  - api/restaurant/menu
+  - api/restaurant/booking
+- api/
