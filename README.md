@@ -9,3 +9,5 @@ URL Patterns:
 - api/menu-view/
 - api/booking-view/
 - auth/
+
+- Simplified version
