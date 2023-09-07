@@ -12,6 +12,6 @@ router.register(r'booking', BookingViewSet),
 urlpatterns = [
     path('restaurant/', include(router.urls)),
     
-    path('menu/', menu_view, name="menu-view"),
-    path('booking/', booking_view, name="booking-view"),
+    path('menu-view/', menu_view, name="menu-view"),
+    path('booking-view/', booking_view, name="booking-view"),
 ]
