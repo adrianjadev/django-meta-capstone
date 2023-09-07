@@ -1,6 +1,11 @@
 **Test with the following URL/s:**
 
-- api/restaurant
+URL Patterns:
+
+- admin/
+- api/restaurant  
   - api/restaurant/menu
   - api/restaurant/booking
-- api/
+- api/menu-view/
+- api/booking-view/
+- auth/
