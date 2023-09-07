@@ -1,0 +1,2 @@
+api/restaurant
+api/menu
