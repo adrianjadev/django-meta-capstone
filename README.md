@@ -1,2 +1,2 @@
-api/restaurant
-api/menu
+- api/restaurant
+- api/menu
